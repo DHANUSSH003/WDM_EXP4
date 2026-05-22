@@ -39,6 +39,7 @@ for group, condition in age_groups.items():
 <img width="662" height="797" alt="image" src="https://github.com/user-attachments/assets/099c80ab-822f-4d11-806d-86482e3b8aec" />
 
 ### Visualization:
+
 ```python
 
 # Create a list to store counts of visitors in each age group
@@ -58,7 +59,11 @@ plt.ylabel('Number of Visitors')
 plt.title('Visitor Distribution Across Age Groups')
 plt.show()
 ```
+
+
+
 ### Output:
+
 
 <img width="1065" height="735" alt="image" src="https://github.com/user-attachments/assets/cc3f25d6-b09f-4c6f-8ef1-6287a6e51b8a" />
 
